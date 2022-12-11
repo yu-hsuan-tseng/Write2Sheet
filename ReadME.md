@@ -3,8 +3,9 @@
 
 本資料夾包含兩個主要執行的程式以及一隻定義function的程式
 
-please run tableau_daily_clickout_partner_1.py and run_sheet.py 
-*** warning . DO NOT RUN write_to_sheet.py 
+please run *tableau_daily_clickout_partner_1.py* and *run_sheet.py*
+
+*warning . DO NOT RUN *write_to_sheet.py*
 
 ### 1. tableau_daily_clickout_partner_1.py 每日8:50AM 自動寄信到seanforlineec@gmail.com 
     若需要更改收件人信箱，於第236行修改 msg['To'] = xxx
