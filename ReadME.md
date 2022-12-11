@@ -1,4 +1,4 @@
-## Folder description for tableau_daily_clickout_partner_1.py / run_sheet.py
+## Description
 
 
 本資料夾包含兩個主要執行的程式以及一隻定義function的程式
