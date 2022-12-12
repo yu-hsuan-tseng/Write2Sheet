@@ -7,7 +7,7 @@ please run *tableau_daily_clickout_partner_1.py* and *run_sheet.py*
 
 *warning . DO NOT RUN *write_to_sheet.py*
 
-### 1. tableau_daily_clickout_partner_1.py 每日8:50AM 自動寄信到seanforlineec@gmail.com 
+### 1. tableau_daily_clickout_partner_1.py 每日8:50AM 
     若需要更改收件人信箱，於第236行修改 msg['To'] = xxx
 
 ### 2. run_sheet.py 每日9:00AM 自動執行26羅漢寫入google sheet 程式
